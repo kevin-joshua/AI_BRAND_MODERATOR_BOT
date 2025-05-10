@@ -1,0 +1,14 @@
+
+
+----- GIANT BRANDS - LIMIT NUMBER OF PAGES to 50-100 FOR LESS COMPLEXITY -------
+
+https://myntra.com/
+https://www.nykaa.com/
+https://www.apple.com/
+
+
+----- SMBs - CAN EXTEND PAGES TO 200-500 FOR EXTENSIVE DATA YET FAST SCRAPING -------
+
+https://flobiz.in/
+https://wasabi.com/
+https://thehouseofrare.com/
