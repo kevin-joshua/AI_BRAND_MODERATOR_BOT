@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
 import time
-from transformers import AutoTokenizer, pipeline
+from transformers import AutoTokenizer
 import os
 from dotenv import load_dotenv
 from langchain.text_splitter import RecursiveCharacterTextSplitter
@@ -265,7 +265,7 @@ def main():
                 model_name="BAAI/bge-base-en-v1.5",
                 encode_kwargs={"normalize_embeddings": True}
             )
-            st.session_state.client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
+            st.session_state.client = Groq(api_key=os.environ.get("GROQ_API_KEY") or st.secrets["GROQ_API_KEY"])
             # Chunk and embed
             data = load_data(st.session_state.FILENAME)
             chunks = chunk_text_by_tokens(data, st.session_state.tokenizer)
