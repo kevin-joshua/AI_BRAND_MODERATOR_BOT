@@ -1,0 +1,796 @@
+-----------------------------------------------------------
+[✓] Query: How does Wasabi help store data?
+[✓] Response: Based on the provided content, Wasabi helps store data by offering a cloud storage solution that provides unmatched performance, security, and value. Here are some key features that enable Wasabi to help store data:
+
+1. Unmatched performance: Wasabi's cloud storage platform is built for performance, allowing users to store and access their data quickly and efficiently.
+2. No fees for egress or API requests: Wasabi does not charge users for egress or API requests, making it a cost-effective option for storing and retrieving data.
+3. Enterprise-grade security: Wasabi provides enterprise-grade security features, including encryption, access controls, and data backups, to ensure the integrity and confidentiality of stored data.
+4. 15 global storage regions: Wasabi has 15 global storage regions, providing users with a choice of locations to store their data and ensuring that data is stored close to where it is needed.
+5. Simple and intuitive interface: Wasabi's cloud storage platform is designed to be simple and intuitive, making it easy for users to store, manage, and retrieve their data.
+
+In addition, Wasabi's customers use the platform for various purposes, including:
+
+1. Long-term storage of raw video content: Wasabi is used as a long-term storage solution for raw video content that may have future value.
+2. Decision-making: Wasabi's cloud storage platform is used to support decision-making by providing access to stored data.
+
+Overall, Wasabi's cloud storage solution provides a reliable, secure, and cost-effective way to store data, making it an attractive option for organizations looking to store and manage their data in the cloud.
+------------------------------------------------------------
+-----------------------------------------------------------
+[✓] MAX PAGES: 20
+[✓] MAX DEPTH: 3
+[?] Query: How does Wasabi help store data?
+[✓] Response: Based on the provided content, Wasabi helps store data by providing a cloud storage platform that offers unmatched performance, security, and value. Here are some key points that highlight how Wasabi helps store data:
+
+1. **Unlimited Storage**: Wasabi allows users to store all their data without worrying about storage limits or fees.
+2. **No Fees for Egress or API Requests**: Wasabi does not charge users for egress or API requests, making it a cost-effective solution for storing and accessing data.
+3. **Enterprise-Grade Security**: Wasabi provides robust security features to protect users' data, including encryption, access controls, and monitoring.
+4. **15 Global Storage Regions**: Wasabi has 15 global storage regions, ensuring that users' data is stored in a location that meets their specific needs and regulatory requirements.
+5. **Simple and Intuitive Interface**: Wasabi's platform is designed to be easy to use, with a simple and intuitive interface that makes it easy to store, manage, and access data.
+6. **Long-Term Storage Solution**: Wasabi can be used as a long-term storage solution for raw video content, allowing users to store and access their data whenever they need it.
+
+Overall, Wasabi provides a reliable and secure cloud storage solution that allows users to store and access their data without worrying about complexity, fees, or limitations.
+------------------------------------------------------------
+-----------------------------------------------------------
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 3
+[?] Query: How does Wasabi help store data?
+[✓] Response: Based on the provided content, Wasabi helps store data by providing a cloud storage platform that offers unmatched performance, security, and value. Here are some key features that enable data storage:
+
+1. 15 global storage regions: Wasabi has a wide range of storage locations around the world, ensuring that data is stored close to the user and reducing latency.
+2. No fees for egress or API requests: Wasabi does not charge for data retrieval or API requests, making it a cost-effective option for storing and accessing data.
+3. Enterprise-grade security: Wasabi provides robust security features, including encryption, access controls, and auditing, to protect sensitive data.
+4. Simple and intuitive interface: Wasabi's platform is designed to be easy to use, with a simple and intuitive interface that makes it easy to store, retrieve, and manage data.
+5. Scalability: Wasabi's cloud storage platform is highly scalable, allowing users to store and manage large amounts of data with ease.
+
+Overall, Wasabi's cloud storage platform is designed to provide a reliable, secure, and cost-effective solution for storing and managing data.
+------------------------------------------------------------
+-----------------------------------------------------------
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 3
+[?] Query: How does Wasabi help store data?
+[✓] Response: Based on the provided content, Wasabi helps store data by offering a cloud storage platform that provides unmatched performance, security, and value. Here are some ways Wasabi helps store data:
+
+1. **Object Storage**: Wasabi offers object storage, which allows users to store large amounts of unstructured data, such as images, videos, and files.
+2. **Server-Side Encryption**: Wasabi supports server-side encryption with customer-provided encryption keys (SSE-C), ensuring that data is encrypted at rest and in transit.
+3. **Replication**: Wasabi offers intracontinental cloud replication and automatic failover, allowing users to store multiple copies of their files across different regions, ensuring business continuity.
+4. **Object Lock**: Wasabi's Object Lock feature maintains a write once, read many (WORM) archiving structure, preventing data from being edited or deleted due to ransomware, bad actors, accidental deletions, and other threats over a set period.
+5. **Multi-Factor Authentication (MFA) and Single Sign-On (SSO)**: Wasabi leverages MFA and SSO to strengthen account access control and prevent account takeovers and data breaches.
+6. **Vulnerability Reporting**: Wasabi maintains open channels of communication for users to report vulnerabilities and suspicious activities, ensuring that any potential security threats are addressed promptly.
+
+Overall, Wasabi's cloud storage platform provides a secure, reliable, and scalable solution for storing and managing data.
+------------------------------------------------------------
+-----------------------------------------------------------
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: How does Wasabi help store data?
+[✓] Response: Based on the provided content, Wasabi helps store data by offering a cloud storage platform that provides unmatched performance, security, and value. Here are some key points on how Wasabi helps store data:
+
+1. **Scalability**: Wasabi offers 15 global storage regions, allowing customers to store large amounts of data and access it from anywhere.
+2. **No fees for egress or API requests**: Wasabi's free egress policy means that customers can access their stored data without incurring additional fees.
+3. **Enterprise-grade security**: Wasabi provides reliable cloud storage with enterprise-grade security features, ensuring that customers' data is protected from unauthorized access.
+4. **Immutability features**: Wasabi's immutability features allow customers to store data that cannot be deleted or modified until a specified retention period has expired, providing an additional layer of data protection.
+5. **Flexible storage options**: Wasabi offers flexible storage options, including active storage (up to 29 or 89 days of deleted storage, depending on the minimum storage retention policy) and immutable storage.
+6. **No minimum storage requirements**: Wasabi does not have minimum storage requirements, allowing customers to store as little or as much data as needed.
+7. **Cost-effective**: Wasabi's pricing model is designed to be cost-effective, with no fees for egress or API requests, and competitive pricing for storage.
+
+Overall, Wasabi provides a reliable, secure, and cost-effective cloud storage solution that helps customers store and manage their data efficiently.
+------------------------------------------------------------
+-----------------------------------------------------------
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: What is Wasabi's product and service offering?
+[✓] Response: Based on the provided content, Wasabi Technologies appears to be a cloud storage company that offers a range of products and services. Here are some key takeaways:
+
+1. Cloud Storage: Wasabi provides cloud storage solutions for businesses, allowing them to store and manage their data in a secure, reliable, and affordable manner.
+2. Pay-As-You-Go Pricing Model: Wasabi offers a pay-as-you-go pricing model, which allows customers to pay only for the storage they use.
+3. RCS (Reserved Capacity Storage) Pricing Model: Wasabi also offers a Reserved Capacity Storage (RCS) pricing model, which allows customers to reserve a certain amount of storage capacity upfront and pay a fixed monthly fee.
+4. Partner Network: Wasabi has a Partner Network that allows MSPs (Managed Service Providers) and VARs (Value-Added Resellers) to sell its cloud storage services to their end customers.
+5. Cloud Migration: Wasabi offers a cloud migration service, which helps customers migrate their data from on-premises storage to the cloud.
+6. Data Management: Wasabi provides data management solutions, including data backup, archiving, and disaster recovery.
+7. Security: Wasabi emphasizes the security of its cloud storage solutions, promising to provide the cheapest, fastest, most secure, and reliable cloud storage in the world.
+
+Overall, Wasabi appears to be a cloud storage company that offers a range of products and services designed to help businesses manage and store their data in a secure, reliable, and affordable manner.
+------------------------------------------------------------
+-----------------------------------------------------------
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: What is Myntra's product and service offering?
+[✓] Response: I apologize, but the provided content does not appear to be related to Myntra, a fashion e-commerce company. The content seems to be about Wasabi Technologies, a cloud storage company, and its product and service offerings.
+
+However, if you're looking for information on Myntra's product and service offering, I can try to provide you with general information about the company. Myntra is a leading online fashion retailer in India that offers a wide range of clothing, accessories, and footwear for men, women, and kids. Their product offerings include:
+
+* Clothing: Tops, bottoms, dresses, outerwear, and more from various brands and labels.
+* Footwear: Shoes, sandals, boots, and sneakers from popular brands.
+* Accessories: Bags, wallets, belts, hats, and scarves.
+* Beauty and Personal Care: Skincare, haircare, makeup, and fragrances from various brands.
+
+Myntra's services include:
+
+* Online shopping: Customers can browse and purchase products through Myntra's website and mobile app.
+* Free shipping: Myntra offers free shipping on orders above a certain amount.
+* Easy returns: Customers can return or exchange products easily through Myntra's return policy.
+* Cash on delivery: Customers can pay for their orders at the time of delivery.
+* Loyalty program: Myntra has a loyalty program that rewards customers for their purchases and referrals.
+
+Please note that this information is based on publicly available data and may not be up-to-date or comprehensive. If you're looking for more specific or detailed information about Myntra's product and service offerings, I recommend visiting their official website or contacting their customer support team.
+------------------------------------------------------------
+-----------------------------------------------------------
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: What is Myntra's product and service offering?
+[✓] Response: I apologize, but the provided content does not appear to be related to Myntra's product and service offering. The content seems to be about Wasabi Technologies, a cloud storage company, and its pricing models, features, and policies.
+
+Myntra is an Indian e-commerce company that specializes in fashion and lifestyle products. If you would like to know more about Myntra's product and service offering, I would need access to their website, marketing materials, or public communications.
+
+Please provide me with the relevant content, and I'll be happy to assist you in answering your question.
+------------------------------------------------------------
+----------------------------START-------------------------------
+URL: https://wasabi.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: What is Myntra's product and service offering?
+[✓] Response: I apologize, but the provided content does not appear to be related to Myntra's product and service offering. The content seems to be from Wasabi Technologies, a cloud storage company, and discusses their products and services, such as data backup and recovery, cloud migration, and reserved capacity billing plans.
+
+As the content does not mention Myntra, I am unable to provide information on Myntra's product and service offering. If you could provide the correct content or link related to Myntra, I would be happy to assist you in answering your question.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://wasabi.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: What is Myntra's product and service offering?
+[✓] Response: I apologize, but the provided content does not appear to be related to Myntra. The content seems to be from Wasabi Technologies, a cloud storage company, and discusses their product and service offerings, pricing models, and policies.
+
+Myntra is not mentioned in the provided text, and I do not have any information about their product and service offerings. If you would like to provide more context or information about Myntra, I would be happy to try and assist you.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://wasabi.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: What is Myntra's product and service offering?
+[✓] Response: Based on the provided content, Myntra is not mentioned at all. The content appears to be related to Wasabi Technologies, a cloud storage company, and its product and service offerings. The services mentioned include:
+
+* Backup & Recovery
+* Active Archiving
+* Media Workflows
+* Surveillance
+* AI/ML
+* Data migration tools
+* Cloud Sync Manager
+* Cloud Migration Request
+
+The content also discusses pricing models, including Reserved Capacity Billing (RCS) and pay-as-you-go pricing. However, Myntra is not mentioned or referenced in any way.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://myntra.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: What is Myntra's product and service offering?
+[✓] Response: Based on the provided content, Myntra's product and service offering appears to be focused on fashion and lifestyle products, specifically:
+
+* Apparel for men, women, and kids (over 100,000 shirts, trousers, and other clothing items)
+* Accessories (shoes, belts, caps, sunglasses, etc.)
+* Beauty and personal care products
+* Home products
+* Gift cards
+* Myntra Insider (a loyalty program)
+
+Additionally, the content mentions a separate section for "Gadgets" which includes electronic products such as:
+
+* Laptops
+* Headphones
+* Smartwatches
+* iPads
+* Other electronic devices
+
+Myntra's services include:
+
+* Flexible return/exchange policy (within 30 days)
+* Excellent customer care service
+* Fast and safe delivery
+* 100% original guarantee for all products
+* Return policy within 14 days of receiving the order
+
+Note that the content does not provide information on other products or services that Myntra may offer.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://myntra.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: What is Myntra's product and service offering?
+[✓] Response: Based on the provided content, Myntra's product and service offering appears to be focused on fashion and lifestyle products, specifically:
+
+* Apparel: shirts, trousers, and other clothing items
+* Accessories: shoes, belts, caps, sunglasses, etc.
+* Beauty and personal care products: makeup kits, etc.
+* Home products: not explicitly mentioned, but implied through the "Home" category in the top-level navigation menu
+
+Myntra also offers services such as:
+
+* Flexible return/exchange policy
+* Excellent customer care service
+* Fast and safe delivery
+* Online shopping with a wide range of products
+
+However, the content does not explicitly mention Myntra's product and service offering in the context of electronic gadgets, as mentioned in the last paragraph. The provided data does not contain relevant information on Myntra's product and service offering in the context of electronic gadgets.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://myntra.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: What is Myntra's product and service offering?
+[✓] Response: Myntra is an online shopping platform that offers a wide range of products, including:
+
+* Apparel for men, women, and kids
+* Home products
+* Beauty products
+* Gift cards
+* Electronic gadgets, such as laptops, headphones, smartwatches, iPads, etc.
+
+Myntra provides a flexible return/exchange policy, excellent customer care service, and a 100% original guarantee for all products. They also offer a range of payment options, including Myntra Credit Coupons and Saved Cards.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://myntra.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: What is Myntra's product and service offering?
+[✓] Response: Myntra is an online shopping platform that offers a wide range of products, including:
+
+* Apparel: shirts, trousers, and other clothing items from various brands such as Levis, Manyavar, Skechers, and more
+* Accessories: belts, caps, sunglasses, and other accessories
+* Gadgets: electronic devices such as laptops, headphones, smartwatches, iPads, and more
+
+Myntra also offers a flexible return and exchange policy, as well as excellent customer care service, to ensure a smooth shopping experience for its customers.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://myntra.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: What can I buy on Myntra, and what makes it a good platform for online shopping?
+[✓] Response: Based on the content, Myntra is a brand that offers a wide range of products, including:
+
+* Apparel: Shirts, trousers, and other clothing items from various brands such as Bewakoof, Zivame, Levis, Manyavar, and more.
+* Gadgets: Electronic devices from reputed brands like JBL, OPTA, Energy Sistem, Philips, Boult, boAt, Saregama, WINGS, and more.
+* Watches: Men's and women's branded watches from Fastrack and other brands.
+
+Myntra is a good platform for online shopping due to its convenience, user-friendly interface, and comprehensive product information. It offers a 14-day returns policy, try-and-buy option for select products, and various payment options, including card and cash-on-delivery. Additionally, Myntra allows customers to shop for gifts and has a gift service for special occasions.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://myntra.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: What can I buy on Myntra, and what makes it a good platform for online shopping?
+[✓] Response: The brand discussed in the content is Myntra.
+
+You can buy a variety of products on Myntra, including:
+
+* Apparel such as shirts, trousers, and other clothing items from popular brands like Bewakoof, Zivame, Levis, and many more.
+* Gadgets such as headphones, earphones, watches, and electronic devices from brands like JBL, OPTA, Energy Sistem, Philips, and more.
+* Accessories like watches for men and women from Fastrack and other brands.
+
+Myntra is a good platform for online shopping due to its convenience, user-friendly interface, and comprehensive product information. The platform offers a range of payment options, including card and cash-on-delivery, and a 14-day returns policy. Additionally, Myntra provides a try-and-buy option for select products, making it a hassle-free experience for customers.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://myntra.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: What can I buy on Myntra, and what makes it a good platform for online shopping?
+[✓] Response: I've identified the brand discussed as Myntra.
+
+Myntra is an online platform where you can buy a wide range of products, including:
+
+* Apparel: Over 100,000 shirts, trousers, and other clothing items from various brands like Bewakoof, Zivame, Levis, Manyavar, and more.
+* Gadgets: Electronic devices from reputed brands like JBL, OPTA, Energy Sistem, Philips, Boult, boAt, Saregama, WINGS, and many more.
+* Watches: Men's and women's watches from brands like Fastrack, with options for digital and analogue dials.
+
+What makes Myntra a good platform for online shopping is its convenience, user-friendly interface, and comprehensive product information. You can view products from different brands in one place, with options for different prices, sizes, and payment methods. Additionally, Myntra offers a 14-day returns policy and a try-and-buy option for select products, making it a hassle-free experience for customers.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://thehouseofrare.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: what is the brand about?
+[✓] Response: The brand is a popular online shopping platform that offers a wide range of products, including clothing, accessories, and footwear for men, women, and kids.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://thehouseofrare.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: what is the brand about? And tell me about the brand's products and services? Also when was the brand founded?
+[✓] Response: The brand is a popular online fashion retailer that offers a wide range of products for men, women, kids, and home. They have a vast collection of casual wear, including capris, T-shirts, casual shirts, and more.
+
+The brand's products and services include a vast array of clothing, accessories, and footwear from various brands, such as Adidas, Nike, Puma, United Colors Of Benetton, Fastrack, Being Human, Woodland, and many more. They also offer a range of home and beauty products, as well as gift cards and a loyalty program called Myntra Insider.
+
+The brand was founded in 2007 and has since become one of the leading online fashion retailers in the country. They are known for their user-friendly interface, competitive pricing, and fast shipping.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://thehouseofrare.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: what is the brand about? And tell me about the brand's products and services? Also when was the brand founded?
+[✓] Response: The brand in question is Myntra, a popular online shopping platform that offers a wide range of products, including apparel, accessories, and more.
+
+Myntra is a one-stop destination for fashion enthusiasts, offering a vast collection of products from various brands, including their own in-house labels. They have a vast array of products for men, women, and kids, including casual wear, formal wear, and even home and beauty products.
+
+As for their products and services, Myntra offers a wide range of products, including tops, bottoms, dresses, outerwear, and more. They have a vast collection of products from various brands, including international brands like Adidas, Nike, and Puma, as well as in-house labels like Bewakoof and The Souled Store.
+
+Myntra also offers a convenient shopping experience, with features like online shopping, mobile app, and easy returns and exchanges. They have a 100% original guarantee for all products, and customers can return or exchange products within 14 days of receiving their order.
+
+As for when Myntra was founded, the information is not explicitly mentioned on their website. However, it is mentioned that Myntra is a Flipkart company, which suggests that it was founded as a subsidiary of Flipkart, a leading e-commerce platform in India.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://thehouseofrare.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: Tell me what is the cheapest product available on the website?
+[A] Response: Based on the provided content, the cheapest product available on the website is not explicitly mentioned. However, the website does have a section for products under ₹499, which includes sunglasses and belts. It's possible that there may be other products available at a lower price point, but without further information, it's difficult to determine the exact cheapest product.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://thehouseofrare.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: Tell me what is the cheapest product available on the website?
+[A] Response: The cheapest product available on the website is ₹499, which is the price range for Sunglasses.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://thehouseofrare.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: Tell me what is the cheapest product available on the website?
+[A] Response: The cheapest product available on the website is not explicitly mentioned. However, the website does offer products under various price ranges, such as Under ₹499 for sunglasses, Under ₹699 for belts, and so on. It seems that the website offers a wide range of products at affordable prices, but the exact cheapest product is not specified.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://rawmango.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: Tell me about the brand and its products? Also, where can I find the products?
+[A] Response: The brand is Myntra, a popular online shopping platform that offers a wide range of products for men, women, kids, and home. Their product categories include capris, T-shirts, casual shirts, and more.
+
+You can find Myntra products on their official website, myntra.com, where you can browse and shop online. They also have a mobile app that allows you to shop on-the-go. Additionally, they have physical stores located in various cities across India, including Bengaluru, Chennai, Hyderabad, Mumbai, and New Delhi.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://rawmango.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: Tell me about the brand and its products? Also, where can I find the products?
+[A] Response: The brand I'm familiar with is Myntra, a popular online shopping platform that offers a wide range of products for men, women, kids, and home. They have an impressive collection of capris, T-shirts, casual shirts, and more from various brands like Adidas, Nike, Puma, and many others.
+
+You can find Myntra's products on their official website, myntra.com, where you can browse through their extensive catalog and make purchases online. They also have a mobile app that allows you to shop on-the-go.
+
+In addition to online shopping, Myntra has physical stores located in major cities like Bengaluru, Chennai, Hyderabad, Mumbai, and New Delhi. You can visit these stores to experience their products firsthand and get personalized assistance from their client advisors.
+
+Myntra offers a 100% original guarantee for all products, and you can return or exchange items within 14 days of receiving your order. They also provide a range of services, including virtual appointments, shipping, and payment options, to make your shopping experience seamless and convenient.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://rawmango.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: What are the main products offered by the brand? Can you provide details about them?
+[A] Response: The brand offers a wide range of products, including casual wear, beauty products, and more. In the casual wear section, you can find products such as T-shirts, shorts, chinos, shirts, track pants, and more. 
+
+In the beauty section, you can find products like hair wax, beauty gift sets, makeup kits, and more from top brands like Lakme, Maybelline, LOreal, Philips, Bath & Body Works, and others.
+
+The brand also offers products for women's western wear, including dresses, tops, jeans, trousers, t-shirts, shirts, skirts, shorts, and more. For women's ethnic wear, you can find products like kurtas, kurtis, kurta sets, ethnic dresses, and palazzos.
+
+For men's casual wear, you can find products like T-shirts, shirts, jeans, trousers, and more.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://rawmango.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: What are the main products offered by the brand? Can you provide details about them?
+[A] Response: The brand offers a wide variety of products, including casual wear for both men and women. In the casual wear section, you can find a range of products such as T-shirts, shorts, chinos, shirts, track pants, and more. 
+
+For men, the brand offers casual wear products like T-shirts starting at ₹299, shirts starting at ₹499, jeans starting at ₹599, and trousers starting at ₹699. They also have a range of tops, dresses, and ethnic wear for women, with prices starting from ₹399 for kurtas and ₹499 for kurtis.
+
+Additionally, the brand has a beauty section that offers a range of products from top brands like Lakme, Maybelline, LOreal, and more. You can find products like hair wax, beauty gift sets, makeup kits, and wellness products.
+
+Overall, the brand offers a diverse range of products for men, women, and kids, making it a one-stop-shop for all your fashion and beauty needs.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://rawmango.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: What are the main products offered by the brand? Can you provide details about them?
+[A] Response: Myntra offers a wide variety of products, including casual wear for both men and women. In their casual wear section, you can find a range of products such as T-shirts, shorts, chinos, shirts, track pants, and more.
+
+For men, Myntra offers casual wear products like T-shirts starting at ₹299, shirts starting at ₹499, jeans starting at ₹599, and trousers starting at ₹699. They also have a range of casual wear products for women, including dresses starting at ₹599, tops starting at ₹399, jeans starting at ₹599, and skirts starting at ₹499.
+
+In addition to casual wear, Myntra also offers a range of beauty and wellness products from top brands like Lakme, Maybelline, LOreal, and more. They have a section dedicated to hair wax, beauty gift sets, and premium beauty and wellness products.
+
+Overall, Myntra offers a diverse range of products for men, women, and kids, making it a one-stop destination for all your fashion and beauty needs.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://rawmango.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: What are the main products offered by the brand? Can you provide details about them?
+[A] Response: Based on the content, it appears that the brand is a clothing brand that offers a variety of products. The main products offered by the brand include Saris, Blouses, Kurtas, and Odhanis and Stoles. These products are available in different colors such as Black, Blue, Metallic, Multicolored, Gold, Green, and Natural, as well as Orange.
+
+The brand also offers a virtual shopping experience, where customers can book a virtual appointment with a dedicated client advisor to get personalized styling tips, find their perfect size, and discover garment care-all from home. This suggests that the brand is focused on providing a unique and personalized shopping experience for its customers.
+
+It's worth noting that the brand does not explicitly mention other products or categories, so it's unclear if they offer other types of clothing or accessories. However, based on the content, it appears that the brand is primarily focused on offering a range of traditional Indian clothing options.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://rawmango.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: What are the main products offered by the brand? Can you provide details about them?
+[A] Response: The brand offers a range of products, including Sari, Blouse, Kurtas, Odhanis, and Stoles.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://rawmango.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: What are the main products offered by the brand? Can you provide details about them?
+[A] Response: Based on the content, it appears that the brand offers a range of products, including Sari, Blouse, Kurtas, and Odhanis and Stoles.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://rawmango.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: What are the main products offered by the brand? Can you provide details about them?
+[A] Response: The brand offers a variety of products, primarily focused on garments and clothing.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://rawmango.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: What are the main products offered by the brand? Can you provide details about them?
+[A] Response: The brand appears to be a clothing brand, and based on the content, it seems that they offer a variety of garments such as Sari, Blouse, Kurtas, and Odhanis and Stoles. They also provide styling tips, size guidance, and occasion-based styling services through their virtual shopping experience.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://rawmango.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: What are the main products offered by the brand? Can you provide details about them?
+[A] Response: Based on the provided content, the brand appears to be a fashion brand that offers a range of products, including:
+
+1. Sari: A traditional garment that is a staple in Indian culture.
+2. Blouse: A type of top that is often worn with a sari or other traditional Indian clothing.
+3. Kurtas: A type of long tunic that is commonly worn in India.
+4. Odhanis and Stoles: These are likely types of scarves or shawls that can be worn with traditional Indian clothing.
+
+The brand also offers virtual shopping experience with a dedicated client advisor, where customers can book a virtual appointment to get personalized styling tips, find their perfect size, and discover garment care tips - all from the comfort of their own home.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://rawmango.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: What are the main products offered by the brand? Can you provide details about them?
+[A] Response: The brand is offering a range of products, specifically mentioned are:
+
+1. Sari
+2. Blouse
+3. Kurtas
+4. Odhanis and Stoles
+
+These products are available in various colors, including:
+
+* Black
+* Blue
+* Metallic
+* Multicolored
+* Gold
+* Green
+* Natural
+* Orange
+
+The brand also offers virtual shopping experience with a dedicated client advisor, where customers can book a virtual appointment to explore their products, get personalized guidance on product selection, and receive styling tips, size and fit consultation, and occasion-based styling.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://rawmango.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: What are the main products offered by the brand? Can you provide details about them?
+[A] Response: The brand is Raw Mango.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://rawmango.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: What are the main products offered by the brand? Can you provide details about them?
+[A] Response: Based on the provided content, it appears that RawMango offers a range of products, including:
+
+1. Sari
+2. Blouse
+3. Kurtas
+4. Odhanis and Stoles
+
+These products can be browsed and selected through the virtual shopping experience, which allows customers to choose their garments and receive personalized guidance on styling, size, and fit.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://thehouseofrare.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: What are the main products offered by the brand? Can you provide details about them?
+[A] Response: The main products offered by the brand "TheHouseOfRare" are clothing and footwear for men, women, and kids. The specific products mentioned in the content include:
+
+* T-shirts
+* Polo shirts
+* Jackets
+* Dress shirts
+* Sweaters
+* Shirts
+* Tops
+* Sweatsuits
+* Blazers and suits
+* Bottom wear (jeans, trousers, shorts, trackpants)
+* Co-ords
+* Accessories (belts, socks, wallets, pocket squares, caps, bags)
+
+These products are categorized into various themes, such as "Winter Wear", "Spring Summer-25", "New Arrivals", and "Sale". The brand also offers a "Rare'z Young Capsule Collection" and a "Kilim Embroidered Denim Label" among others.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://thehouseofrare.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: What are the main products offered by the brand? Can you provide details about them?
+[A] Response: The main products offered by the brand "TheHouseOfRare" include:
+
+1. Clothing:
+	* Shirts (printed, embroidered, plain, striped, plaid/check, linen, half-sleeve)
+	* Tops
+	* Sweaters
+	* Polo shirts
+	* Winter wear
+	* Jeans
+	* Shorts
+	* Trackpants
+	* Troser
+	* Co-ords
+	* Overalls
+2. Footwear:
+	* Sneakers
+	* Formal loafers
+	* Moccasins
+	* High-top sneakers
+	* Sandals
+3. Accessories:
+	* Belts
+	* Socks
+	* Wallets
+	* Pocket squares
+	* Caps
+	* Bags
+4. Other products:
+	* Backpacks
+	* Co-ords
+	* Polo shirts
+	* Blazers and suits
+	* Bottom wear (jeans, trousers, cargos, shorts, trackpants)
+	* Rare plus size clothing
+	* Ethnic wear
+	* Travel wear
+	* Oxford shirts
+	* Carnival wear
+	* Faros edit
+	* Evolving neutrals
+	* Lunar serenity
+	* Nocturnal darks
+	* Soulful midtones
+	* Tempered bold
+	* Orchid whisper
+	* Soft scénics
+	* House of cards
+	* Monogram texture
+	* Jacquard zipper
+	* Polo logo
+	* Cuban pastel
+	* Solid linen
+	* City of polka
+	* Reversible England
+	* Occasion party wear
+	* Holiday business wear
+	* Summer guild
+	* Guild business
+	* Party guild
+	* Festive guild
+	* Casual guild
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://thehouseofrare.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: What are the main products offered by the brand? Can you provide details about them?
+[A] Response: TheHouseOfRare offers a wide range of products, including:
+
+* Clothing: Tops, shirts, t-shirts, sweaters, dresses, and more for men, women, and kids.
+* Footwear: Sneakers, formal loafers, high-top sneakers, sandals, and more for men, women, and kids.
+* Accessories: Belts, socks, wallets, pocket squares, caps, bags, and more.
+* Co-ords: Matching sets of clothing and accessories.
+* Bags: Backpacks and other types of bags.
+
+Some of the specific products mentioned include:
+
+* Polo shirts
+* Jeans
+* Shorts
+* Trackpants
+* Sweaters
+* Shirts
+* T-shirts
+* Blazers and suits
+* Bottom wear
+* Cargos
+* Skirts
+* Shurugs and overlays
+* Socks
+* Wallets
+* Pocket squares
+* Caps
+* Bags
+
+The brand also offers a range of themes and collections, including:
+
+* Rare'z Young Capsule Collection
+* Klim embroidered denim
+* Travel Oxford shirts
+* Carnival Faros Edit
+* Evolving Neutrals
+* Lunar Serenity
+* Nocturnal Darks
+* Soulful Midtones
+* Tempered Bold Orchid
+* Whisper Soft Scenics
+* House of Cards
+* Monogram Texture
+* Jacquard Zipper Polo
+* Cuban Pastel Solid Linen
+* City of Polka
+* Reversible England
+* Occasion Party Wear
+* Holiday Business
+* Summer Guild
+* Guild Business
+* Guild Party
+* Guild Festive
+* Casual
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://thehouseofrare.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: What are the main products offered by the brand? Can you provide details about them?
+[A] Response: TheHouseOfRare offers a wide range of products, including:
+
+1. Clothing: Tops, Shirts, T-Shirts, Polo Shirts, Sweaters, Sweatshirts, Blazers, Suits, Bottom Wear, Jeans, Trousers, Cargos, Shorts, Track Pants, and Co-ords.
+2. Footwear: Sneakers, Formal Loafers, Moccasins, High-Top Sneakers, Sandals, and more.
+3. Accessories: Belts, Socks, Wallets, Pocket Squares, Caps, Bags, and more.
+4. Bags: Backpacks and more.
+5. Co-ords: Co-ordinated outfits for men, women, and kids.
+
+They also have a section for "Rare Plus Size" which offers specially made clothing for plus-size individuals.
+
+The brand also has a "Coming Soon" section where they showcase upcoming products and collections.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://thehouseofrare.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: Tell me about the offers that the brand is currently running? Also, what are the best selling products?
+[A] Response: The brand, TheHouseOfRare, is currently running a limited-time sale, RR Sale August, which offers limited-time discounts on premium fashion products. 
+
+As for the best-selling products, the content doesn't explicitly mention specific products. However, it does highlight the most searched products, which include shirts, t-shirts, polo jackets, and dress tops for men and women. The brand also features a section called "Most Searched" where customers can find popular products.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://thehouseofrare.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: Tell me about the offers that the brand is currently running? Tell me all about the offers and which banks are providing the offers?
+[A] Response: The brand, TheHouseOfRare, is currently running an offer in partnership with Oziva and Kotak Bank. The offer is exclusive to Kotak Mahindra Bank Privy League customers and provides an extra 30% discount on all products on www.Oziva.in. To redeem the offer, customers need to visit the website, add products, use the code KOTAK30 during checkout, and complete the order transaction. The offer is valid until September 30th, 2022.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://thehouseofrare.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: Tell me about the offers that the brand is currently running? Tell me all about the offers and which banks are providing the offers?
+[A] Response: The brand "TheHouseOfRare" is currently running an offer in partnership with Kotak Bank, providing an extra 30% discount on all products on their website www.Oziva.in exclusively for Kotak Mahindra Bank Privy League customers. 
+
+To redeem the offer, customers need to visit the website, add all their products, use the promo code KOTAK30 during checkout, and complete the order transaction. The offer is valid until 30th September 2022. 
+
+The terms and conditions of the offer are as follows: 
+
+* The offer is made solely by Zywie ventures private limited (brand "Oziva") to Kotak Mahindra Bank customers holding Kotak Debit Card, Kotak Credit Card, or availing Net Banking facilities.
+* The offer is non-transferable, non-encashable, and non-negotiable.
+* Any fraudulent activity identified during the offer period may result in disqualification.
+* The bank and Oziva reserve the right to add/alter/modify/change or vary all or any of these terms and conditions or to replace, wholly or in part this offer by another offer.
+* The bank shall not be responsible or liable for any deficiency or inadequacy in the services rendered by Oziva or its agents/representatives.
+* The bank holds out no warranty and makes no representation about the quality, delivery, or otherwise of the goods and services offered by Oziva.
+
+No other offers or promotions are currently available from TheHouseOfRare.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://thehouseofrare.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: Tell me about the offers that the brand is currently running? Tell me all about the offers and which banks are providing the offers?
+[A] Response: The brand "TheHouseOfRare" is currently running an offer in collaboration with Kotak Bank. The offer is exclusive to Kotak Mahindra Bank Privy League customers and provides an extra 30% discount on all products on www.Oziva.in. To redeem the offer, customers need to visit the website, add products, use the promo code KOTAK30 during checkout, and complete the order transaction. The offer is valid until September 30th, 2022.
+
+No other offers or discounts are mentioned in the provided content. TheHouseOfRare does not seem to be running any other offers or promotions at this time.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://thehouseofrare.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: Tell me about the brand and the product that it offers
+[A] Response: TheHouseOfRare is a brand that offers a wide range of products, including clothing, footwear, and accessories for men, women, and kids. Their product categories include tops, sweaters, cargos, jeans, shorts, track pants, belts, co-ords, sweatshirts, trousers, skirts, and more. They also have a section dedicated to their most searched products, which includes shirts, t-shirts, polo jackets, and dresses.
+
+One of their highlighted products is their Track Pants, which combines performance and comfort. They also have a section for winter wear, including oversized polos, and a variety of accessories such as backpacks and footwear.
+
+The brand has an app available on Google Play and the App Store, allowing customers to shop on-the-go. They also have a loyalty points program, where customers can earn exclusive perks and rewards by logging in and making purchases.
+
+TheHouseOfRare's website is user-friendly, with easy navigation and a clean design. They have a "Most Searched" section, which showcases their most popular products, and a "New Arrivals" section, which features their latest collections. They also have a "Sale" section, where customers can find discounted prices on various products.
+
+Overall, TheHouseOfRare appears to be a one-stop-shop for customers looking for a wide range of clothing and accessories for the whole family.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://thehouseofrare.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: What are the offers going on currently and with which bank is it available. Tell me about it
+[A] Response: Based on the provided content, there are two offers currently available:
+
+1. Oziva & Kotak Bank Offer:
+	* Extra 30% Discount on All products on www.Oziva.in exclusively for Kotak Mahindra Bank Privy League customers.
+	* Minimum Order value: Rs.799
+	* Max discount value: NA
+	* How to Redeem: Visit www.oziva.in, add products, use code: KOTAK30 during checkout, and complete the order transaction.
+	* Offer Validity: Upto 30th September 2022
+	* Coupon code: KOTAK30
+
+2. RoundGlass Living+ Standard Offer:
+	* Get Free annual subscription of RoundGlass Living+ with your Kotak Card.
+	* Minimum Order value: None. Free subscription worth 99.99 USD
+	* Max discount value: 100%
+	* How to Redeem: Register or login at the RoundGlass Living website, select 'Annual', apply promo code RGKOTAK100, enter card details, and complete the transaction to receive a flat 50% off on your RoundGlass Living+ subscription instantly.
+	* Offer Validity: 31st December 2022
+	* Coupon code: RGKOTAK100
+
+Both offers are exclusive to Kotak Mahindra Bank customers and can be redeemed by using the specified promo codes.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://thehouseofrare.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: Tell me about the offers going on with the brand. Which bank is it in partnership with?
+[A] Response: TheHouseOfRare is currently offering two exclusive offers:
+
+1. Additional 10% off on purchase of Rs. 5000 and above on prepaid orders.
+2. Get 12% off on purchase of Rs. 5000 and above on prepaid orders.
+
+As for the bank partnership, TheHouseOfRare is not explicitly mentioned to be in partnership with any specific bank. However, they do offer a Loyalty Points Program, which allows customers to earn exclusive perks and rewards with every purchase.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: https://thehouseofrare.com/
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: Tell me about the offers going on with the brand. Which bank is it in partnership with?
+[A] Response: TheHouseOfRare is currently offering two exclusive deals for its customers. Firstly, they are providing an additional 10% off on purchases of Rs. 5000 and above on prepaid orders. Secondly, customers can get 12% off on purchases of Rs. 5000 and above on prepaid orders.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: 
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: Tell me about the offers going on with this brand. Also which brand is this
+[A] Response: This brand is TheHouseOfRare, and they have several offers currently running. 
+
+One of the offers is an additional 10% off on purchases of Rs. 5000 and above on prepaid orders. Another offer is 12% off on purchases of Rs. 5000 and above on prepaid orders. These offers are available for a limited time, so it's best to check the website for any updates or changes.
+
+TheHouseOfRare also has a Loyalty Points Program, which allows customers to earn exclusive perks and rewards by joining and making purchases. This program can be accessed by logging in to their account.
+
+Additionally, the brand has a newsletter subscription option, which allows customers to stay updated on new arrivals, sales, and other promotions.
+----------------------------END--------------------------------
+----------------------------START-------------------------------
+URL: 
+ -> MAX PAGES: 50
+ -> MAX DEPTH: 4
+[?] Query: Tell me about the offers going on with this brand. Also which brand is this
+[A] Response: The brand is "The House of Rare" or "Rare Ones", and it appears to be offering several promotions and discounts. 
+
+According to the provided content, there are two offers available:
+
+1. Additional 10% off on purchase of Rs. 5000 and above on prepaid orders.
+2. Get 12% off on purchase of Rs. 5000 and above on prepaid orders.
+
+These offers are applicable on prepaid orders and can be availed by customers who meet the minimum purchase requirement of Rs. 5000.
+----------------------------END--------------------------------
