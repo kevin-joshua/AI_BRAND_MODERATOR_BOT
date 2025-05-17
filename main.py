@@ -19,10 +19,14 @@ import tempfile
 from fastapi.middleware.cors import CORSMiddleware
 from typing import List
 from uuid import uuid4
+from huggingface_hub import login
 
 
 
 load_dotenv()
+
+hf_token = os.getenv("auth_token")
+login(token=hf_token)
 
 tokenizer = AutoTokenizer.from_pretrained("meta-llama/Meta-Llama-3-8B-Instruct")
 embedding_model = HuggingFaceEmbeddings(
